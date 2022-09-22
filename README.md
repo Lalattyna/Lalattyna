@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0D1117?style=flat&logo=linkedin)](https://www.linkedin.com/in/lalattyna/)&nbsp;
 [![Npm](https://img.shields.io/badge/-Npm-0D1117?style=flat&logo=npm)](https://www.npmjs.com/~lalattyna)&nbsp;
 
-Hi, I'm Laurent alias Lalattyna, a FrontEnd Developer Js 🚀 from French 🇫🇷. In my free time, I develop open source projects for Manastone community. In addition to my passion for my profession, I often play my favorite MMO (Guild Wars 2).
+Hi, I'm Laurent alias Lalattyna, a FrontEnd Developer Js 🚀 from French 🇫🇷. In my free time, I develop open source projects for [**Manastone community**](https://github.com/manastone). In addition to my passion for my profession, I often play my favorite MMO Guild Wars 2 🎮.
 
 ![View my profil](https://komarev.com/ghpvc/?username=lalattyna&label=Profile%20views&color=0e75b6&style=flat)&nbsp;
 ![Followers](https://img.shields.io/github/followers/lalattyna?style=social)&nbsp;
