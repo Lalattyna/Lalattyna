@@ -1,7 +1,7 @@
 # Hey, I'm Laurent! 🖖
 
 
-[![Discord](https://img.shields.io/badge/-Discord-0D1117?style=flat&logo=discord)](https://discord.gg/24pTEehYbQ)&nbsp;
+[![Discord](https://img.shields.io/badge/-Discord-0D1117?style=flat&logo=discord)](https://discord.gg/ZEqWHHpmM4)&nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-0D1117?style=flat&logo=twitter)](https://twitter.com/Lalattyna)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0D1117?style=flat&logo=linkedin)](https://www.linkedin.com/in/lalattyna/)&nbsp;
 [![Npm](https://img.shields.io/badge/-Npm-0D1117?style=flat&logo=npm)](https://www.npmjs.com/~lalattyna)&nbsp;
